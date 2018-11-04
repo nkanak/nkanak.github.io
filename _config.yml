@@ -17,15 +17,11 @@ author:
   name: Nikos Kanakaris
   title: PhD Candidate
   address: Patras, Greece 26221
-  email: nikos.kanakaris89@gmail.com
+  email_1: nikos.kanakaris89@gmail.com
+  email_2: nkanakaris@upnet.gr
   link: https://nkanak.github.io
-  weibo:
   github: nkanak
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
       company: XXX Ltd
