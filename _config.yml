@@ -46,13 +46,21 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: University of Patras, Mechanical Engineering & Aeronautics
+      degree: PhD.
+      location: Patras, Greece
+      major: Business intelligence, Recommender systems, Digital personal assistants, Operations research & Project management, Artificial intelligence, Machine learning & Data mining 
+      started: 2018
+      duration: (2018 - present)
+      description: .
+    - education2:
+      organization: Harokopio University of Athens, Informatics & Telematics
+      location: Athens, Greece
+      degree: BSc.
+      major: Computer Software & Systems
+      started: 2011
+      duration: (2011 - 2016)
+      description: .
   languages:
     - language1:
       name: Chinese
