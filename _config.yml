@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Nikos Kanakaris
+description: Nikos Kanakaris's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://nkanak.github.io
+url: https://nkanak.github.io
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+#google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,13 +14,13 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Nikos Kanakaris
+  title: PhD Candidate
+  address: Patras, Greece 26221
+  email: nikos.kanakaris89@gmail.com
+  link: https://nkanak.github.io
   weibo:
-  github: ddbullfrog
+  github: nkanak
   linkedin: ddbullfrog
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
