@@ -24,66 +24,211 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      companyTitle: University of Patras
+      companyLink: http://www.upatras.gr/en
+      location: Patras, Greece
+      title: Software Research Engineer
+      started: 2017
+      duration: (December 2017 - present)
+      type: Full-time
+      technologies: Python, Python Eve, MongoDB, personalization algorithms, recommender systems, machine learning techniques, data clustering
+      links:
+        - link1:
+          title: MyCorridor
+          url: http://www.mycorridor.eu
+      topics:
+        - topic1:
+          description: Implementing the personalization and user profiling algorithms for MyCorridor
+
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      companyTitle: Programize LLC
+      companyLink: https://www.programize.com
+      location: Athens, Greece
+      title: Software Engineer
+      started: 2016
+      duration: (May 2016 - August 2016)
+      type: Full-time
+      technologies: Python, JavaScript, C#, C++, AngularJS, Flask, NodeJS, Apache Cordova, MySQL, BHO IE
+      links:
+        - link1:
+          title: Litta
+          url: http://litta.co
+        - link2:
+          title: Global Showcases
+          url: http://www.globalshowcases.com
+        - link3:
+          title: VForVacation 
+          url: http://www.vforvacation.com
+        - link4:
+          title: SunPower
+          url: https://us.sunpower.com
+        - link5:
+          title: OnionID
+          url: https://www.onionid.com
+      topics:
+        - topic1:
+          description: Implementing the back-end system for Litta mobile application
+        - topic2:
+          description: Implementing the main mobile hybrid and back-end application for Global Showcases
+        - topic3:
+          description: Adding responsive functionality to the official website for VForVacation
+        - topic4:
+          description: Contributing to the front-end and back-end internal financial application for SunPower
+        - topic5:
+          description: Implementing an Internet Explorer extension for OnionID
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      companyTitle: Programize LLC
+      companyLink: https://www.programize.com
+      location: Athens, Greece
+      title: Software Engineer
+      started: 2016
+      duration: (February 2016 - May 2016)
+      type: Part-time
+      technologies: Python, scipy, py2exe
+      topics:
+        - topic1:
+          description: Converting an already existing financial model from Microsoft Excel to Python
+        - topic2:
+          description: Contributing to the automization of the process to convert Microsoft excel workbooks to Python
+    - work4:
+      companyTitle: Software Competitiveness International S.A. (SoftCom International)
+      companyLink: http://www.softcom-int.com
+      location: Athens, Greece
+      title: Junior Software Engineer
+      started: 2015
+
+      duration: (November 2015 - May 2016)
+      type: Full-time
+      description: "Working for a German Automotive Industry under a NDA, area: Navigation"
+      technologies: C++, Python, Lua, XML, GIT, Jira, MISRA, Cmake, ISO 9001, ISO 27001
+      topics:
+        - topic1:
+          description: Implementing the middleware component that facilitates the front-end and back-end software layers
+    - work5:
+      companyTitle: Software Competitiveness International S.A. (SoftCom International)
+      companyLink: http://www.softcom-int.com
+      location: Athens, Greece
+      title: Junior Software Engineer
+      started: 2015
+      duration: (July 2015 - October 2015)
+      type: Internship
+      description: "Working for a Space Industry under a NDA, area: preventive performance monitoring"
+      technologies: C++, Java, machine learning techniques, data clustering
+      links:
+        - link1:
+          title: Research
+          url: https://drive.google.com/file/d/0B7OxYNGpEIPgY0doSXNsSmlpYU0/view
+      topics:
+        - topic1:
+          description: Researching for an alternative algorithm for hierarchical clustering
   educationHistory:
     - education1:
-      organization: University of Patras, Mechanical Engineering & Aeronautics
+      organization: Mechanical Engineering & Aeronautics, University of Patras
       degree: PhD.
       location: Patras, Greece
-      major: Business intelligence, Recommender systems, Digital personal assistants, Operations research & Project management, Artificial intelligence, Machine learning & Data mining 
+      major: Business intelligence, Recommender systems, Digital personal assistants, Operations research, Project management, Machine learning, Interpretable Machine learning
       started: 2018
       duration: (2018 - present)
-      description: .
+
+      laboratory: Industrial Management and Information Systems
+      subject: Knowledge extraction and representation using machine learning algorithms - Εξαγωγή και αναπαράσταση γνώσης με χρήση τεχνικών μηχανικής μάθησης και αξιοποίησή της από ψηφιακούς προσωπικούς βοηθούς
+      supervisorName: Nikos Karacapilidis
+      supervisorLink: http://www.mech.upatras.gr/~nikos
     - education2:
-      organization: Harokopio University of Athens, Informatics & Telematics
+      organization: Informatics & Telematics, Harokopio University of Athens
       location: Athens, Greece
       degree: BSc.
       major: Computer Software & Systems
+      score: 8.5
       started: 2011
       duration: (2011 - 2016)
-      description: .
+      thesisTitle: Parallelization of “burn scar mapping” algorithms - Παραλληλοποίηση αλγορίθμων χαρτογράφησης καμένων εκτάσεων σε δορυφορικά δεδομένα
+      thesisLinkPaper: https://drive.google.com/file/d/0B7OxYNGpEIPgNjRad005c0RMQzA/view
+      thesisLinkPresentation: https://drive.google.com/file/d/0B7OxYNGpEIPgS1k0TGI3eTVVdUE/view
+      thesisTechnologies: Digital Image Processing, Parallel Programming, Python, MPI
+      supervisorName: Dimitrios Michail 
+      supervisorLink: https://www.dit.hua.gr/~michail
   languages:
     - language1:
-      name: Chinese
+      name: Greek
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      proficiency: Fluent
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: C/C++
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Python
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: JavaScript/Node.js
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: Java
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: LaTeX
+    - skill6:
+      name: PostgreSQL
+    - skill7:
+      name: MySQL
+    - skill8:
+      name: SQLite
+    - skill9:
+      name: Digital Image Processing
+    - skill10:
+      name: Parallel Programming
+    - skill11:
+      name: Recommender Systems
+    - skill12:
+      name: Machine Learning
+    - skill13:
+      name: Data Mining
+    - skill14:
+      name: Graph Theory
+    - skill15:
+      name: Docker
+    - skill16:
+      name: Git
+    - skill17:
+      name: SVN
+  interests:
+    - interest1:
+      name: recommender systems
+    - interest2:
+      name: machine learning
+    - interest3:
+      name: interpretable machine learning
+    - interest4:
+      name: data mining
+    - interest5:
+      name: business intelligence
+    - interest6:
+      name: AI-guided project management
+    - interest7:
+      name: operations research
+    - interest8:
+      name: graph theory
+    - interest9:
+      name: algorithms
+    - interest10:
+      name: parallel programming
+    - interest11:
+      name: embedded systems
+    - interest12:
+      name: IoT
+  hobbies:
+    - hobby1:
+      name: Arduino/IoT
+    - hobby2:
+      name: electronics
+    - hobby3:
+      name: RC cars
+    - hobby4:
+      name: motorbikes
+    - hobby5:
+      name: gaming
+    - hobby6:
+      name: basketball
+    - hobby7:
+      name: swimming
+    - hobby8:
+      name: reading books
