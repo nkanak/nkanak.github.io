@@ -182,6 +182,16 @@ layout: default
                     </ul>
                 </div>
             {% endif %}
+            {% if site.author.publications %}
+                <h3 class="title with-icon"><span class="fa fa-newspaper cat-title"></span> Publications</h3>
+                <div class="grid-block">
+                    {% for publication in site.author.publications %}
+                        {% if publication.text %}
+                            <p>{{ publication.text }}</p>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fa fa-location-arrow cat-title"></span> Location</h3>
             <div class="grid-block">
