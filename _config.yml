@@ -31,12 +31,17 @@ author:
       started: 2017
       duration: (December 2017 - present)
       type: Full-time
-      technologies: Python, Python Eve, MongoDB, personalization algorithms, recommender systems, machine learning techniques, data clustering
+      technologies: Python, Python Eve, Flask, Django, MongoDB, Cytoscape.js, Neo4j, graph databases, knowledge graphs, discourse graphs, discourse representation, argumentation, personalization algorithms, recommender systems, machine learning techniques, data clustering
       links:
         - link1:
           title: MyCorridor
           url: http://www.mycorridor.eu
+        - link2:
+          title: OpenBio-C
+          url: https://www.openbio.eu
       topics:
+        - topic2:
+          description: Designing and implementing the collaboration and discourse environment for OpenBioC research project
         - topic1:
           description: Implementing the personalization and user profiling algorithms for MyCorridor
 
@@ -46,7 +51,7 @@ author:
       location: Athens, Greece
       title: Software Engineer
       started: 2016
-      duration: (May 2016 - August 2016)
+      duration: (May 2016 - August 2017)
       type: Full-time
       technologies: Python, JavaScript, C#, C++, AngularJS, Flask, NodeJS, Apache Cordova, MySQL, BHO IE
       links:
@@ -195,6 +200,8 @@ author:
       name: recommender systems
     - interest2:
       name: machine learning
+    - interest2:
+      name: natural language processing
     - interest3:
       name: interpretable machine learning
     - interest4:
@@ -232,6 +239,16 @@ author:
       name: swimming
     - hobby8:
       name: reading books
-  publications:
+  publicationsConferencesAndBookChapters:
     - publication1:
-      text: "1. N. Kanakaris, N. Karacapilidis and A. Lazanas: On the advancement of Project Management through a flexible integration of Machine Learning and Operations Research tools. In: Proceedings of the 8th International Conference on Operations Research and Enterprise Systems (ICORES 2019), Prague, Czech Republic, February 19-21, 2019 (to appear)"
+      text: "1. N. Kanakaris, N. Karacapilidis and A. Lazanas: On the advancement of Project Management through a flexible integration of Machine Learning and Operations Research tools. In: Proceedings of the 8th International Conference on Operations Research and Enterprise Systems (ICORES 2019), Prague, Czech Republic, February 19-21, 2019"
+    - publication2:
+      text: "2. A. Kanterakis, G. Iatraki, K. Pityanou, L. Koumakis, N. Kanakaris, N. Karacapilidis and G. Potamias: Towards Reproducible Bioinformatics:The OpenBio-C Scientific Workflow Environemnt. In: Proceedings of the 19th annual IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2019), Athens, Greece, October 28-30, 2019"
+
+  publicationsPostersAndAbstracts:
+    - publication1:
+      text: "1. N. Karacapilidis, N. Kanakaris, G. Kournetas and V. Tampakas: Advancing Project Management through the Integration of Knowledge Graph and Machine Learning Technologies. In: 30th European Conference on Operational Research (EURO 2019), Dublin, Ireland, June 23-26, 2019"
+    - publication2:
+      text: "2. A. Kanterakis, G. Iatraki, L. Koumakis, K. Pitianou, M. Koutoulakis, N. Kanakaris, N. Karacapilidis and G. Potamias: OpenBio-C: An Online Social Workflow Management System and Research Object Repository. In: BOSC COSI: Bioinformatics Open Source Conference (ISMB/ECCB 2019), Basel, Switzerland, July 21-25, 2019"
+    - publication3:
+      text: "3. A. Kanterakis, G. Iatraki, K. Pityanou, L. Koumakis, N. Kanakaris, N. Karacapilidis, G. Potamias: Towards Reproducible Bioinformatics: The OpenBio-C Workflow Management Platform"

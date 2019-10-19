@@ -182,16 +182,24 @@ layout: default
                     </ul>
                 </div>
             {% endif %}
-            {% if site.author.publications %}
-                <h3 class="title with-icon"><span class="fa fa-search cat-title"></span> Publications</h3>
-                <div class="grid-block">
-                    {% for publication in site.author.publications %}
-                        {% if publication.text %}
-                            <p>{{ publication.text }}</p>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-            {% endif %}
+            <h3 class="title with-icon"><span class="fa fa-search cat-title"></span> Publications</h3>
+            <h4><span class="cat-title"></span>Conferences &amp; Book Chapters</h4>
+            <div class="grid-block">
+              {% for publication in site.author.publicationsConferencesAndBookChapters %}
+                {% if publication.text %}
+                  <p>{{ publication.text }}</p>
+                {% endif %}
+              {% endfor %}
+            </div>
+            <h4><span class="cat-title"></span>Posters &amp; Abstracts</h4>
+            <div class="grid-block">
+              {% for publication in site.author.publicationsPostersAndAbstracts %}
+                {% if publication.text %}
+                  <span>{{ publication.text }}</span>
+		  <p></p>
+                {% endif %}
+              {% endfor %}
+            </div>
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fa fa-location-arrow cat-title"></span> Location</h3>
             <div class="grid-block">
