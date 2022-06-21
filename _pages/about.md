@@ -34,7 +34,7 @@ I have also worked outside of the academic world for a list of companies as a *
 
 In my free time, I love to listen to podcasts on Spotify, read books highlighting the power of the mind, experiment with new technologies and automotive electronics, and work out. I am also an active reviewer of programming books at Manning Publications.
 
-#### **My View on Code**
-I try not to be dogmatized regarding programming languages and technologies (after all, they are just tools that help you with a specific task); each tool and language has its own purpose. However, most of my academic work is developed using Python. Thus far, for the industrial projects, I have developed many solutions in Python, JavaScript/Node.js and C++. Recently, I incorporated the [Julia](https://julialang.org/) programming language into tool set and I am using it (accompanied by Python) for data analysis tasks (e.g. manipulating data frames, providing descriptive statistics, and approaching basic classification problems). In my opinion, Julia has a lot of potential and everyone could benefit from using it.
+#### **My view on code**
+I try not to be dogmatized regarding programming languages and technologies (after all, they are just tools that help you with a specific task); each tool and language has its own purpose. However, most of my academic work is developed using Python. Thus far, for the industrial projects, I have developed many solutions in Python, JavaScript/Node.js and C++. Recently, I incorporated the [Julia](https://julialang.org/) programming language into my tool set and I am using it (accompanied by Python) for data analysis tasks (e.g. manipulating data frames, providing descriptive statistics, and approaching basic classification problems). In my opinion, Julia has a lot of potential and everyone could benefit from using it.
 
 You can freely contact me on any social media platform or by email.
