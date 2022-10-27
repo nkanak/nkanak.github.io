@@ -38,7 +38,7 @@ I have also worked outside of the academic world for many companies as a **soft
 In my free time, I love to listen to podcasts on Spotify, read books highlighting the power of the mind and work out. Along with my previous spiritual-oriented and wellbeing hobbies, I am always curious about new applied engineering and automotive technologies. Thus, I frequently find myself experimenting with electronics such as Arduino and Raspberry Pi, 3D printing (recently, I bought the new Prusa printer), CAD design,
 lathe and milling machines. Particularly, my passion is rapidly exploded when these technologies are combined with data collection, data analysis and machine learning.
 
-I am also an active reviewer of programming books at Manning Publications and in various scientific Journals and conferences, including PLOS ONE, MDPI and IEEE.
+I am also an active reviewer of programming books at Manning Publications and in various scientific Journals and conferences, including AIRE (9.588 IF), PLOS ONE, MDPI and IEEE.
 
 #### **My view on code**
 I try not to be dogmatized regarding programming languages and technologies (after all, they are just tools that help you with a specific task); each tool and language has its own purpose. However, most of my academic work is developed using Python. Thus far, for the industrial projects, I have developed many solutions in Python, JavaScript/Node.js and C++. Recently, I incorporated the [Julia](https://julialang.org/) programming language into my tool set and I am using it (accompanied by Python) for data analysis tasks (e.g. manipulating data frames, providing descriptive statistics, and approaching basic classification problems). In my opinion, Julia has a lot of potential and everyone could benefit from using it.
