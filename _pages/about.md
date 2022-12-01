@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Current status**
 * **Final-year Ph.D. candidate** at the Department of Mechanical and Aeronautical Engineering at the University of Patras (Industrial Management and Information Systems Laboratory, supervisor: [Nikos Karacapilidis](http://imis.upatras.gr/nikos/)).
-* Working as a Research Software engineer for various EU and Greek-funded projects
+* Working as a Machine learning researcher for various EU and Greek-funded projects
 * Developing full stack software solutions and performing data analyses for startups
 * Experience both in academia and industry
 
@@ -33,7 +33,7 @@ I am currently studying techniques related to graph neural networks and graph-b
 An example of a representation of multiple textual documents as a single graph (graph-of-docs) is available on GitHub ([link](https://github.com/NC0DER/GraphOfDocs)).
 
 #### **Industrial & outer world**
-I have also worked outside of the academic world for many companies as a **software engineer** and as a **freelancer** on various multi-domain projects (not afraid of getting my hands dirty). Hence, I can natively operate both in academia and industry, in a similar fashion to a hybrid car.
+I have also worked outside of the academic world for many companies as a software engineer and as a freelancer on various multi-domain projects (not afraid of getting my hands dirty). Hence, I can natively operate both in academia and industry, in a similar fashion to a hybrid car.
 
 In my free time, I love to listen to podcasts on Spotify, read books highlighting the power of the mind and work out. Along with my previous spiritual-oriented and wellbeing hobbies, I am always curious about new applied engineering and automotive technologies. Thus, I frequently find myself experimenting with electronics such as Arduino and Raspberry Pi, 3D printing (recently, I bought the new Prusa printer), CAD design,
 lathe and milling machines. Particularly, my passion is rapidly exploded when these technologies are combined with data collection, data analysis and machine learning.
