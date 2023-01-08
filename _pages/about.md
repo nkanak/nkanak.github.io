@@ -18,6 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 #### **Current status**
+* Working as a **Data Scientist** at [efood](https://www.e-food.gr/) (a brand of [Delivery Hero](https://www.deliveryhero.com/))
 * **Final-year Ph.D. candidate** at the Department of Mechanical and Aeronautical Engineering at the University of Patras (Industrial Management and Information Systems Laboratory, supervisor: [Nikos Karacapilidis](http://imis.upatras.gr/nikos/)).
 * Working as a Machine learning researcher for various EU and Greek-funded projects
 * Developing full stack software solutions and performing data analyses for startups
