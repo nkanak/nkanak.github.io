@@ -19,14 +19,13 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Current status**
 * Working as a **Data Scientist** at [efood](https://www.e-food.gr/) (a brand of [Delivery Hero](https://www.deliveryhero.com/))
-* **Final-year Ph.D. candidate** at the Department of Mechanical and Aeronautical Engineering at the University of Patras (Industrial Management and Information Systems Laboratory, supervisor: [Nikos Karacapilidis](http://imis.upatras.gr/nikos/)).
-* Working as a Machine learning researcher for various EU and Greek-funded projects
-* Developing full stack software solutions and performing data analyses for startups
-* Experience both in academia and industry
+* **Holding a Ph.D. in Graph Mining & NLP** from the University of Patras (Content [here](https://github.com/nkanak/phd-content))(Industrial Management and Information Systems Laboratory, supervisor: [Nikos Karacapilidis](http://imis.upatras.gr/nikos/)).
+* Working as a Machine learning researcher for various EU and Greek-funded projects.
+* Experience in research, end-to-end machine learning projects, full-stack software development and deployment.
+* Experience both in academia and industry.
+* **BSc. in Computer Science** from the Department of [Informatics and Telematics](https://dit.hua.gr/index.php/en/), Harokopio University of Athens (supervisor: [Dimitrios Michail](https://d-michail.github.io/)).
 
 #### **Academic world**
-I hold a **BSc. in Computer Science** from the Department of [Informatics and Telematics](https://dit.hua.gr/index.php/en/), Harokopio University of Athens, where I completed my thesis under the supervision of [Dimitrios Michail](https://d-michail.github.io/).
-
 My current research aims to exploit existing techniques and methods from the fields of **graph theory**, **graph mining**, **natural language processing**, **knowledge management** and **machine learning** in order to improve graph-based text representation and graph-based natural language processing.
 I am interested in natural language processing, applied machine learning, and graph mining.
 I am currently studying techniques related to graph neural networks and graph-based natural language processing. In particular, advancing common natural language processing tasks, such as text classification, feature extraction and feature selection, using graph-based text representations, word embeddings, and graph neural networks.
