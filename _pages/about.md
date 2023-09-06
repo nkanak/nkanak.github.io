@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: You can find my detailed CV <a href="/assets/pdf/nikos_kanakaris_cv.pdf" target="_blank">here</a>.
+subtitle: You can find my resume <a href="/assets/pdf/nikos_kanakaris_resume.pdf" target="_blank">here</a>.<br> You can find my detailed CV <a href="/assets/pdf/nikos_kanakaris_cv.pdf" target="_blank">here</a>.
 
 profile:
   align: right
